@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Entry #1: Background Information"
+date:   2018-09-05 13:47:01 -0500
+categories:
+---
+Just to make sure I completely understand what static site generators are, I think some background information is necessary. How could I best navigate the tutorials and develop an understanding of Jekyll if I don’t understand how it fits within the realm of state site generators? So, let’s start with some readings before the tutorials. I have chosen two:
+
+[Why Use Jekyll and Github](http://literaturegeek.com/2015/12/08/WhyJekyllGitHub) 
+
+Visconti, a digital humanities scholar, decides to breakdown the differences between static sites and dynamic websites (like WordPress). It seems that dynamic websites pull information from a database while static websites are just combining the usual website template features (header, footer, etc) with specific files (.txt file of a blog post). I suppose this is why GitHub promotes the use of Jekyll for constructing websites. It just updates the specific files when they change, rather than having to pull loads of information from the database every time. Cool- that finally answers my question of what the hell static site generators are. Thanks, background reading!
+
+[Introduction to Static Site Generators](https://davidwalsh.name/introduction-static-site-generators) 
+
+This introduction replicates a lot of advantages mentioned in the Visconti post. Although, I doubt security will be a major issue when it comes to my site- whether it is the journal for this class or the online exhibit I plan to create for my capstone. The other downsides described show that there can be no real time content, no user input and there is no UI. The first two do not affect me but I do love a good, simple UI. However, I suppose the whole point of learning something like Jekyll is to fill a gap in my coding knowledge and encourage more familiarity with the command line. 
+
+Something that I’ve also noticed reading these entries is that open source is constantly mentioned and emphasized. As a financially unstable human being (**cough**, “grad student”), I appreciate the open source movement. I am looking forward to understanding how I can create content for open source projects, rather than just consume it. As a former teacher, I can definitely say that the ol’ “the best way to learn is to teach” platitude is true- no matter how obnoxious it might sound. 
