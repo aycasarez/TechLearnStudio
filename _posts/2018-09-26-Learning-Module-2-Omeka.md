@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Learning Module 2: Omeka"
-date:   2018-09-26 16:28:01 -0500
+date:   2018-10-03 16:28:01 -0500
 categories:
 
 
